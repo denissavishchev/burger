@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Egg Morning",
+    "image": "Egg.png",
+    "hit": "yes",
+    "kcal": "180",
+    "time": "10",
+    "weight": "320"
+  },
+  {
+    "name": "Onion Sun",
+    "image": "Onion.png",
+    "hit": "no",
+    "kcal": "150",
+    "time": "8",
+    "weight": "300"
+  },
+  {
+    "name": "Black Wrath",
+    "image": "Black.png",
+    "hit": "yes",
+    "kcal": "220",
+    "time": "15",
+    "weight": "350"
+  },
+  {
+    "name": "Farm Evening",
+    "image": "Farm.png",
+    "hit": "no",
+    "kcal": "190",
+    "time": "10",
+    "weight": "310"
+  },
+  {
+    "name": "Plant Only",
+    "image": "Plant.png",
+    "hit": "no",
+    "kcal": "140",
+    "time": "17",
+    "weight": "220"
+  },
+  {
+    "name": "Big Cheese",
+    "image": "Cheese.png",
+    "hit": "no",
+    "kcal": "190",
+    "time": "10",
+    "weight": "300"
+  }
+]
